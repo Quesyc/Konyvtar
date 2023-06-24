@@ -1,0 +1,14 @@
+.img-res
+{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.text-align-justify
+{
+    text-align: justify;
+}
+.cursor-pointer
+{
+    cursor: pointer;
+}
